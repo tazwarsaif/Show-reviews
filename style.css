@@ -1,0 +1,10 @@
+.underline{
+    border: 5px solid hsl(146, 48%, 53%);
+    width: 500px;
+    
+}
+img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
